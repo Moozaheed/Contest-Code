@@ -1,0 +1,6 @@
+NO
+YES
+abccddcc
+YES
+xxyy
+NO
